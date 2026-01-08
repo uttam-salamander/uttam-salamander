@@ -118,15 +118,17 @@ Official website for the **Photographic Society of BIT Mesra**. A collaborative 
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uttam-salamander&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam-salamander&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+  <a href="https://github.com/uttam-salamander">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=uttam-salamander&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttam-salamander&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/github/followers/uttam-salamander?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/uttam-salamander?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Stars"/>
 </p>
 
 ---
