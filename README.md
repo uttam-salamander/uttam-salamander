@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <a href="https://www.uttam.tech"><img src="https://img.shields.io/badge/Portfolio-uttam.tech-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:uttamkumar8976@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/uttam-salamander"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/uttam-salamander"><img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/></a>
@@ -151,7 +152,10 @@ Official website for the **Photographic Society of BIT Mesra**. A collaborative 
 </p>
 
 <p align="center">
+  <a href="https://www.uttam.tech">
+    <img src="https://img.shields.io/badge/Portfolio-uttam.tech-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="mailto:uttamkumar8976@gmail.com">
-    <img src="https://img.shields.io/badge/Reach_out-uttamkumar8976%40gmail.com-blue?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-uttamkumar8976%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
