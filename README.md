@@ -22,7 +22,8 @@ I'm an **AI Engineer** and **Full-Stack Developer** based in **Tempe, Arizona**.
 - Currently building **AI-driven job application tools** and **workflow automation systems**
 - Passionate about **LLM frameworks**, **agentic AI**, and **developer tooling**
 - Background in **Machine Learning research** with published work on hybrid neural architectures
-- Graduate of **BIT Mesra** | Member of **@GPT-Integrators**
+- **MS in Computer Science** at **Arizona State University** | Graduate of **BIT Mesra**
+- Member of **@GPT-Integrators**
 
 ---
 
